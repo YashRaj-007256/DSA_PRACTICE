@@ -39,16 +39,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0049-group-anagrams) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0049-group-anagrams) |
 ## Sliding Window
 |  |
 | ------- |
@@ -61,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0202-happy-number) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
