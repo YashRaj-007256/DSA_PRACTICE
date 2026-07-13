@@ -14,12 +14,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0094-binary-tree-inorder-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0222-count-complete-tree-nodes) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0094-binary-tree-inorder-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0222-count-complete-tree-nodes) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Stack
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0073-set-matrix-zeroes) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
@@ -49,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0073-set-matrix-zeroes) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0202-happy-number) |
@@ -106,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
