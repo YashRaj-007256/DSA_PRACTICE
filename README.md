@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0006-zigzag-conversion) |
 | [0022-generate-parentheses](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0049-group-anagrams) |
+| [0091-decode-ways](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0091-decode-ways) |
 | [0290-word-pattern](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0290-word-pattern) |
 ## Sliding Window
 |  |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0022-generate-parentheses) |
+| [0091-decode-ways](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0091-decode-ways) |
 | [0264-ugly-number-ii](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0264-ugly-number-ii) |
 ## Backtracking
 |  |
