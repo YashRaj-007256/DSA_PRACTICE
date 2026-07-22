@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0016-3sum-closest) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0349-intersection-of-two-arrays) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0206-reverse-linked-list) |
