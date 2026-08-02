@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0035-search-insert-position) |
+| [0046-permutations](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0046-permutations) |
 ## Counting Sort
 |  |
 | ------- |
