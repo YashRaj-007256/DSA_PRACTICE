@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0139-word-break](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0139-word-break) |
 | [0347-top-k-frequent-elements](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0349-intersection-of-two-arrays) |
 | [0486-predict-the-winner](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0486-predict-the-winner) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0139-word-break](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0202-happy-number) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0049-group-anagrams) |
 | [0091-decode-ways](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0097-interleaving-string) |
+| [0139-word-break](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0139-word-break) |
 | [0290-word-pattern](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0290-word-pattern) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sliding Window
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0022-generate-parentheses) |
 | [0091-decode-ways](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0097-interleaving-string) |
+| [0139-word-break](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0139-word-break) |
 | [0264-ugly-number-ii](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0264-ugly-number-ii) |
 | [0486-predict-the-winner](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0486-predict-the-winner) |
 ## Backtracking
@@ -193,4 +197,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0486-predict-the-winner) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
