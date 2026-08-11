@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0094-binary-tree-inorder-traversal) |
+| [0143-reorder-list](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0143-reorder-list) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0143-reorder-list) |
 | [0202-happy-number](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0206-reverse-linked-list) |
 | [0355-design-twitter](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0355-design-twitter) |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0050-powx-n) |
+| [0143-reorder-list](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0486-predict-the-winner) |
 ## Design
