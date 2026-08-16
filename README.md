@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0094-binary-tree-inorder-traversal) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0237-delete-node-in-a-linked-list) |
 | [0355-design-twitter](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0355-design-twitter) |
 | [0382-linked-list-random-node](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0382-linked-list-random-node) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0622-design-circular-queue](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0622-design-circular-queue) |
 ## Recursion
 |  |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0146-lru-cache) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
