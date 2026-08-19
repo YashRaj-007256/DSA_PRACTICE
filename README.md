@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0143-reorder-list) |
 | [0445-add-two-numbers-ii](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0445-add-two-numbers-ii) |
+| [1019-next-greater-node-in-linked-list](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/1019-next-greater-node-in-linked-list) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0349-intersection-of-two-arrays) |
 | [0486-predict-the-winner](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0486-predict-the-winner) |
 | [0622-design-circular-queue](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0622-design-circular-queue) |
+| [1019-next-greater-node-in-linked-list](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/1019-next-greater-node-in-linked-list) |
 | [3731-find-missing-elements](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0445-add-two-numbers-ii) |
 | [0622-design-circular-queue](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0622-design-circular-queue) |
+| [1019-next-greater-node-in-linked-list](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/1019-next-greater-node-in-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -256,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0622-design-circular-queue) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1019-next-greater-node-in-linked-list](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/1019-next-greater-node-in-linked-list) |
 <!---LeetCode Topics End-->
