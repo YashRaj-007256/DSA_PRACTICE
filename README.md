@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0382-linked-list-random-node](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0445-add-two-numbers-ii) |
 | [0486-predict-the-winner](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0486-predict-the-winner) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0706-design-hashmap) |
 | [1019-next-greater-node-in-linked-list](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/1019-next-greater-node-in-linked-list) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
