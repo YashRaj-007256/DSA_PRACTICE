@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0622-design-circular-queue) |
 | [0706-design-hashmap](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0706-design-hashmap) |
 | [1019-next-greater-node-in-linked-list](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/1019-next-greater-node-in-linked-list) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3731-find-missing-elements](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0147-insertion-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0349-intersection-of-two-arrays) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/3731-find-missing-elements) |
 ## Matrix
@@ -309,4 +311,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
