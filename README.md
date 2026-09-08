@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0445-add-two-numbers-ii) |
 | [0486-predict-the-winner](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0486-predict-the-winner) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [3870-count-commas-in-range](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/3870-count-commas-in-range) |
 ## Two Pointers
 |  |
 | ------- |
