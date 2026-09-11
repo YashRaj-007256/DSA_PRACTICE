@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0706-design-hashmap) |
 | [1019-next-greater-node-in-linked-list](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/1019-next-greater-node-in-linked-list) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3483-unique-3-digit-even-numbers](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/3483-unique-3-digit-even-numbers) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3731-find-missing-elements](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/3731-find-missing-elements) |
 | [3904-smallest-stable-index-ii](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/3904-smallest-stable-index-ii) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0355-design-twitter) |
 | [0706-design-hashmap](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0706-design-hashmap) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
+| [3483-unique-3-digit-even-numbers](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/3483-unique-3-digit-even-numbers) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/3731-find-missing-elements) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0486-predict-the-winner) |
+| [3483-unique-3-digit-even-numbers](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/3483-unique-3-digit-even-numbers) |
 ## Design
 |  |
 | ------- |
@@ -321,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Union-Find
 |  |
