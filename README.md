@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0382-linked-list-random-node](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0445-add-two-numbers-ii) |
 | [0486-predict-the-winner](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0486-predict-the-winner) |
+| [0836-rectangle-overlap](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0836-rectangle-overlap) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [3870-count-commas-in-range](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/3871-count-commas-in-range-ii) |
@@ -335,4 +336,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3904-smallest-stable-index-ii](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/3904-smallest-stable-index-ii) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
