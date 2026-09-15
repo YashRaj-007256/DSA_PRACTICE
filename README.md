@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0067-add-binary) |
 | [0222-count-complete-tree-nodes](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0222-count-complete-tree-nodes) |
 ## Tree
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0067-add-binary) |
 | [0091-decode-ways](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0097-interleaving-string) |
 | [0139-word-break](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0139-word-break) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0202-happy-number) |
 | [0264-ugly-number-ii](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0264-ugly-number-ii) |
 | [0382-linked-list-random-node](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0382-linked-list-random-node) |
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0067-add-binary) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Ordered Set
 |  |
