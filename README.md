@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0035-search-insert-position) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0222-count-complete-tree-nodes) |
 | [0349-intersection-of-two-arrays](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0139-word-break](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0139-word-break) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0347-top-k-frequent-elements](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0349-intersection-of-two-arrays) |
 | [0486-predict-the-winner](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0486-predict-the-winner) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0160-intersection-of-two-linked-lists) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0349-intersection-of-two-arrays) |
