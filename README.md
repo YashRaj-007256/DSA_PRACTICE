@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0139-word-break) |
 | [0290-word-pattern](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0290-word-pattern) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sliding Window
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0067-add-binary) |
+| [3498-reverse-degree-of-a-string](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/3498-reverse-degree-of-a-string) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Ordered Set
 |  |
