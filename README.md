@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0073-set-matrix-zeroes) |
+| [0088-merge-sorted-array](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0139-word-break](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0139-word-break) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0143-reorder-list) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0147-insertion-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0349-intersection-of-two-arrays) |
