@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/1019-next-greater-node-in-linked-list) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/2000-reverse-prefix-of-word) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/3174-clear-digits) |
 ## Depth-First Search
 |  |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0290-word-pattern) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/2000-reverse-prefix-of-word) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3174-clear-digits](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/3498-reverse-degree-of-a-string) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0682-baseball-game) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/3498-reverse-degree-of-a-string) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
