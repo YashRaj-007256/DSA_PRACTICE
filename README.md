@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0682-baseball-game) |
 | [1019-next-greater-node-in-linked-list](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/1019-next-greater-node-in-linked-list) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2000-reverse-prefix-of-word](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/2000-reverse-prefix-of-word) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/3174-clear-digits) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0682-baseball-game) |
 | [0706-design-hashmap](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0706-design-hashmap) |
 | [1019-next-greater-node-in-linked-list](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/1019-next-greater-node-in-linked-list) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0225-implement-stack-using-queues) |
 | [0622-design-circular-queue](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0622-design-circular-queue) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -361,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0682-baseball-game) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/3498-reverse-degree-of-a-string) |
