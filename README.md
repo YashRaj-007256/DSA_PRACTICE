@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0222-count-complete-tree-nodes) |
 | [0349-intersection-of-two-arrays](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0349-intersection-of-two-arrays) |
+| [0713-subarray-product-less-than-k](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0713-subarray-product-less-than-k) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0622-design-circular-queue) |
 | [0682-baseball-game](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0682-baseball-game) |
 | [0706-design-hashmap](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0706-design-hashmap) |
+| [0713-subarray-product-less-than-k](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0713-subarray-product-less-than-k) |
 | [1019-next-greater-node-in-linked-list](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/1019-next-greater-node-in-linked-list) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0713-subarray-product-less-than-k](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0713-subarray-product-less-than-k) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Math
 |  |
@@ -399,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0713-subarray-product-less-than-k) |
 | [3904-smallest-stable-index-ii](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/3904-smallest-stable-index-ii) |
 ## Geometry
 |  |
