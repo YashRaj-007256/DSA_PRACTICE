@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0316-remove-duplicate-letters) |
 | [0445-add-two-numbers-ii](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0496-next-greater-element-i) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0682-baseball-game](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0844-backspace-string-compare) |
 | [1019-next-greater-node-in-linked-list](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/1019-next-greater-node-in-linked-list) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0349-intersection-of-two-arrays) |
 | [0486-predict-the-winner](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0496-next-greater-element-i) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0622-design-circular-queue](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0622-design-circular-queue) |
 | [0682-baseball-game](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0682-baseball-game) |
 | [0706-design-hashmap](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0706-design-hashmap) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0349-intersection-of-two-arrays) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0876-middle-of-the-linked-list) |
 | [2000-reverse-prefix-of-word](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/2000-reverse-prefix-of-word) |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0147-insertion-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0349-intersection-of-two-arrays) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -368,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0496-next-greater-element-i) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1019-next-greater-node-in-linked-list](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/1019-next-greater-node-in-linked-list) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Hash Function
@@ -397,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0316-remove-duplicate-letters) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Enumeration
 |  |
