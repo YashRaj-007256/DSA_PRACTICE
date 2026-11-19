@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0349-intersection-of-two-arrays) |
 | [0713-subarray-product-less-than-k](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0713-subarray-product-less-than-k) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0067-add-binary) |
 | [0222-count-complete-tree-nodes](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0268-missing-number) |
 ## Tree
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0139-word-break](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0139-word-break) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0349-intersection-of-two-arrays) |
 | [0486-predict-the-winner](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0486-predict-the-winner) |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0202-happy-number) |
 | [0264-ugly-number-ii](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0349-intersection-of-two-arrays) |
@@ -175,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0202-happy-number) |
 | [0264-ugly-number-ii](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0268-missing-number) |
 | [0382-linked-list-random-node](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0445-add-two-numbers-ii) |
 | [0486-predict-the-winner](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0486-predict-the-winner) |
@@ -220,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0147-insertion-sort-list) |
+| [0268-missing-number](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0349-intersection-of-two-arrays) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/YashRaj-007256/DSA_PRACTICE/tree/master/0581-shortest-unsorted-continuous-subarray) |
